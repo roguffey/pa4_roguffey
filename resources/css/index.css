@@ -1,0 +1,26 @@
+.navbar{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.jumbotron{
+    background-color: darkred;
+    color: white;
+    height: 800px;
+    text-align: center;
+    padding: 200px;
+}
+
+#bigAlStadium{
+    position: relative;
+    max-height: 300px;
+}
+
+.card{
+    min-height: 100px;
+    max-width: 200px;
+    padding: 5px;
+}
